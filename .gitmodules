@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/object-tracker"]
+	path = catkin_ws/src/object-tracker
+	url = git@github.com:/glynfinck/object-tracker
