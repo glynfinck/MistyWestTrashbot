@@ -4,3 +4,9 @@
 [submodule "catkin_ws/src/trashbot_ai"]
 	path = catkin_ws/src/trashbot_ai
 	url = git@github.com:/KeenanMcConkey/trashbot_ai.git
+[submodule "catkin_ws/src/darknet_ros"]
+	path = catkin_ws/src/darknet_ros
+	url = git@github.com:leggedrobotics/darknet_ros.git
+[submodule "catkin_ws/src/realsense-ros"]
+	path = catkin_ws/src/realsense-ros
+	url = git@github.com:/IntelRealSense/realsense-ros.git

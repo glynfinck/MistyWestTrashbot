@@ -1,0 +1,8 @@
+prefix=/home/glyn/MistyWestTrashbot/catkin_ws/devel
+
+Name: object_tracker
+Description: Description of object_tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/glyn/MistyWestTrashbot/catkin_ws/devel/lib 
+Requires: 
